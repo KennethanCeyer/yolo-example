@@ -18,6 +18,7 @@ $ pip install pipenv
 > If you're already installed pytorch, Skip this step 
 
 ```bash
+$ pipenv torchvision
 ```
 
 2. clone repository
